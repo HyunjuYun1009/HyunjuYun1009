@@ -8,7 +8,7 @@
 
 <p>
   I am a 4th year undergraduate student at
-  <a href="https://bioeng.korea.ac.kr/">
+  <a href="https://bmeng.korea.ac.kr/">
     <b>School of Biomedical Engineering, Korea University</b>
   </a>,
   double majoring in <b>Artificial Intelligence</b>.
